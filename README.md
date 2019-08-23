@@ -18,8 +18,8 @@ How to develop the project
 
 3. Build Prod Version
 
-      npm run build .
+      npm run build 
 
-4. Open the index.html file in your browser
+
 
      
